@@ -1,0 +1,3086 @@
+[
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_214_0000_0680.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_638_0000_0783.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_165_0842_1315.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_31_5331_6294.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_33_7187_7560.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_320_3788_4140.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        228,
+        276,
+        324
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_167_2596_3156.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_21_0864_1280.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_321_4385_4616.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        229
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_259_0000_0141.mp4",
+    "keyframes": [
+        0,
+        48,
+        96
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_30_6404_6921.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384,
+        432,
+        480
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_207_8580_8750.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_60_8074_8410.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_213_5030_5390.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_283_2538_2702.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_206_4085_4350.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_116_0000_0237.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        231
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_280_6258_6451.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_86_8336_8700.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_3_4314_4512.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_131_0000_0650.mp4",
+    "keyframes": [
+        0,
+        46,
+        94,
+        126,
+        174,
+        207,
+        255,
+        281,
+        308,
+        356,
+        404,
+        452,
+        500,
+        548,
+        596,
+        644
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_212_3750_3950.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_30_5780_6125.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        235,
+        263,
+        311
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_313_0000_0168.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_239_10927_11055.mp4",
+    "keyframes": [
+        0,
+        48,
+        96
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_206_5080_5300.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_51_2001_2660.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        183,
+        222,
+        270,
+        298,
+        326,
+        355,
+        403,
+        451,
+        499,
+        547,
+        595,
+        639
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_23_1345_1620.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_589_0000_0479.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_322_11420_11708.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        284
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_35_2209_2521.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_246_0000_0155.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_333_7182_7446.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_482_0000_0530.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_333_8432_8729.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_312_0000_0208.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_743_7132_7502.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_714_0000_1471.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_35_0000_0316.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_20_0000_0772.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_26_0000_0313.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_21_14050_14250.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_10_5793_5923.mp4",
+    "keyframes": [
+        0,
+        48,
+        96
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_321_10180_10589.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_205_0000_0750.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_322_3710_3923.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_664_0282_0647.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_277_0987_1354.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_35_0645_1314.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        138,
+        186,
+        232,
+        256,
+        282,
+        330,
+        378,
+        426,
+        470,
+        518,
+        566,
+        614,
+        662
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_213_7000_7300.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        170,
+        230,
+        267
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_80_0000_0143.mp4",
+    "keyframes": [
+        0,
+        48,
+        96
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_320_2747_2985.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_205_0100_0400.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_261_2395_2790.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_24_0156_0670.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384,
+        432,
+        480
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_320_3591_3713.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        120
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_270_0000_0170.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_207_7050_7380.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_723_0246_1395.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_Z_206_6370_6700.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_136_0000_1020.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_magic/M_C_462_0000_0342.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_6_7507_7604.mp4",
+    "keyframes": [
+        0,
+        60,
+        110,
+        170,
+        230,
+        290,
+        350,
+        394,
+        452,
+        512,
+        572,
+        632,
+        692,
+        752,
+        812,
+        872,
+        932,
+        963,
+        1004,
+        1041,
+        1101,
+        1161,
+        1221,
+        1281,
+        1341,
+        1401,
+        1461,
+        1521,
+        1581,
+        1634,
+        1694
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_28_0152_0310.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        392,
+        452,
+        512,
+        572,
+        632,
+        692,
+        752,
+        812,
+        872,
+        932,
+        989,
+        1049,
+        1109,
+        1169,
+        1229,
+        1289,
+        1349,
+        1409,
+        1469,
+        1529,
+        1589,
+        1649,
+        1709,
+        1769,
+        1829,
+        1889,
+        1949,
+        2009,
+        2069,
+        2129,
+        2189,
+        2249,
+        2309
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_24_1615_1739.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920,
+        1980,
+        2040,
+        2100,
+        2160,
+        2220,
+        2280,
+        2340,
+        2400,
+        2460
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_23_6737_6817.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_26_6741_6818.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        585,
+        645,
+        678,
+        738,
+        798,
+        858,
+        918,
+        978,
+        1038,
+        1098
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_4112_4143.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        891
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_17_11125_11232.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920,
+        1980
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_5206_5323.mp4",
+    "keyframes": [
+        0,
+        52,
+        112,
+        172,
+        232,
+        292,
+        352,
+        412,
+        472,
+        532,
+        592,
+        652,
+        712,
+        772,
+        832,
+        892,
+        952,
+        1012,
+        1072,
+        1132,
+        1192,
+        1252,
+        1312,
+        1372,
+        1432,
+        1492,
+        1552,
+        1612,
+        1672,
+        1732,
+        1792,
+        1852,
+        1912,
+        1972,
+        2032,
+        2092,
+        2152,
+        2212,
+        2269
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_27_5845_5911.mp4",
+    "keyframes": [
+        0,
+        30,
+        90,
+        150,
+        210,
+        270,
+        330,
+        390,
+        450,
+        493,
+        553,
+        613,
+        673,
+        733
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_28_5744_5850.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_12_7511_7545.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        332,
+        392,
+        422,
+        482,
+        541,
+        601,
+        661,
+        721,
+        781,
+        841,
+        901,
+        961
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_2145_2248.mp4",
+    "keyframes": [
+        0,
+        60,
+        95,
+        155,
+        215,
+        275,
+        335,
+        395,
+        455,
+        515,
+        565,
+        625,
+        685,
+        745,
+        805,
+        865,
+        925,
+        985,
+        1045,
+        1105,
+        1165,
+        1225,
+        1285,
+        1345,
+        1405,
+        1465,
+        1525,
+        1585,
+        1645,
+        1683,
+        1743,
+        1803,
+        1863
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_20_0247_0322.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_2520_2604.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        597,
+        657,
+        690,
+        750,
+        810,
+        870,
+        930,
+        990,
+        1050,
+        1110,
+        1170,
+        1230,
+        1290
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_26_8519_8630.mp4",
+    "keyframes": [
+        0,
+        52,
+        112,
+        172,
+        232,
+        292,
+        352,
+        412,
+        472,
+        532,
+        592,
+        652,
+        712,
+        772,
+        832,
+        892,
+        952,
+        1012,
+        1072,
+        1132,
+        1192,
+        1252,
+        1312,
+        1372,
+        1432,
+        1492,
+        1552,
+        1612,
+        1672,
+        1732,
+        1792,
+        1852,
+        1912,
+        1972,
+        2032,
+        2066,
+        2126
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_30_0810_0857.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        155,
+        215,
+        275,
+        335,
+        395,
+        455,
+        515,
+        575,
+        635,
+        695,
+        755,
+        815,
+        875,
+        935,
+        995,
+        1055,
+        1115,
+        1175,
+        1235,
+        1295,
+        1355
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_9_0255_0333.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_21_8758_8835.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_20_5555_5631.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        930,
+        990,
+        1042
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_8928_9045.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1364,
+        1424,
+        1484,
+        1544,
+        1604,
+        1664,
+        1724,
+        1784,
+        1844,
+        1904,
+        1964,
+        2024,
+        2084,
+        2144,
+        2204,
+        2264
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_12_5112_5200.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_6421_6500.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_7911_8000.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_26_3358_3424.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        336,
+        380,
+        439,
+        471,
+        531,
+        591,
+        642,
+        702,
+        762
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_13_0752_0824.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_28_5325_5442.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920,
+        1980,
+        2040,
+        2100,
+        2160,
+        2220,
+        2280
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_21_4308_4428.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1777,
+        1837,
+        1897,
+        1957,
+        2017,
+        2077,
+        2137,
+        2197,
+        2257,
+        2317,
+        2377
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_21_6234_6350.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920,
+        1980,
+        2040,
+        2100,
+        2160,
+        2220
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_0730_0903.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920,
+        1980,
+        2040,
+        2100,
+        2160,
+        2220,
+        2280,
+        2340,
+        2400,
+        2460,
+        2520,
+        2580,
+        2640,
+        2700,
+        2760
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_24_0623_0722.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1433,
+        1487,
+        1547,
+        1607,
+        1667,
+        1727,
+        1765
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_12_1452_1602.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        890,
+        950,
+        1010,
+        1050,
+        1110,
+        1170,
+        1230,
+        1290,
+        1350,
+        1410,
+        1470,
+        1530,
+        1590,
+        1650,
+        1710,
+        1770,
+        1830,
+        1890,
+        1950,
+        2010,
+        2070
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_3500_3554.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        404,
+        464,
+        524,
+        584,
+        644,
+        704,
+        764,
+        824,
+        884,
+        944,
+        1004,
+        1064,
+        1124,
+        1184,
+        1228,
+        1288,
+        1348,
+        1408,
+        1468,
+        1528,
+        1588
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_24_7440_7538.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_21_2648_2732.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        523,
+        583,
+        643,
+        703,
+        740,
+        800,
+        834,
+        894,
+        954,
+        1014,
+        1074,
+        1134,
+        1194,
+        1254,
+        1314
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_16_1059_1115.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        175,
+        235,
+        295,
+        355,
+        415,
+        475
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_24_3028_3048.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        235,
+        295,
+        355,
+        415,
+        475,
+        535,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_6143_6339.mp4",
+    "keyframes": [
+        0,
+        56,
+        116,
+        176,
+        236,
+        296,
+        356,
+        416,
+        476,
+        536,
+        596,
+        656,
+        716,
+        776,
+        836,
+        896,
+        956,
+        1016,
+        1076,
+        1136,
+        1196,
+        1256,
+        1316,
+        1376,
+        1436,
+        1496,
+        1556,
+        1616,
+        1676,
+        1736,
+        1796,
+        1856,
+        1916,
+        1976,
+        2036,
+        2096,
+        2156,
+        2216,
+        2276,
+        2336,
+        2396,
+        2456,
+        2516,
+        2576,
+        2636,
+        2696,
+        2756,
+        2816,
+        2876,
+        2936,
+        2996,
+        3056,
+        3116,
+        3176,
+        3236,
+        3296,
+        3356,
+        3416,
+        3476
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_17_8120_8159.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_18_7649_7708.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        345,
+        405,
+        465,
+        525
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_28_0548_0629.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_22_0147_0212.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_18_3028_3042.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_10_6402_6422.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_3233_3410.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920,
+        1980,
+        2040,
+        2100,
+        2160,
+        2220,
+        2280,
+        2340,
+        2400,
+        2460,
+        2520,
+        2580,
+        2640,
+        2700,
+        2760,
+        2820,
+        2880
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_17_3643_3725.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_21_8053_8120.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_97_3738_3841.mp4",
+    "keyframes": [
+        0,
+        32,
+        88,
+        148,
+        208,
+        268,
+        328,
+        388,
+        448,
+        508,
+        568,
+        628,
+        688,
+        725,
+        785,
+        845,
+        905,
+        965,
+        1025,
+        1085,
+        1145,
+        1205,
+        1265,
+        1325,
+        1385,
+        1445,
+        1505,
+        1565,
+        1625,
+        1685,
+        1745,
+        1805,
+        1865
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_23_3426_3515.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_12_8039_8155.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1011,
+        1071,
+        1131,
+        1191,
+        1251,
+        1311,
+        1371,
+        1431,
+        1491,
+        1551,
+        1611,
+        1671,
+        1731,
+        1791,
+        1851,
+        1911,
+        1971,
+        2023,
+        2083,
+        2143,
+        2203,
+        2263
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_6_0151_0235.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1252,
+        1312
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_28_1256_1335.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        511,
+        571,
+        623,
+        683,
+        743,
+        803,
+        863,
+        923,
+        983,
+        1043,
+        1103,
+        1163
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_14_6653_6758.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_27_3610_3656.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_21_1852_1925.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        530,
+        590,
+        650,
+        710,
+        770,
+        818,
+        878,
+        938
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_creative/C_KT_8_0418_0453.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        585,
+        645,
+        705,
+        765,
+        825,
+        885,
+        945,
+        1005
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_848_0000_0538.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_203_2846_3053.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150,
+        200
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_127_1628_1761.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_112_0436_0691.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_199_1990_2259.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150,
+        200,
+        250
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_286_0000_0278.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_814_0031_0310.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_1227_0000_0191.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_84_2310_2408.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_258_3519_3609.mp4",
+    "keyframes": [
+        0,
+        60
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_888_0000_0173.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        168
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_39_2925_3134.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_246_0293_0390.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_125_2858_3029.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_15_0000_0224.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        221
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_103_0920_1010.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_31_0442_0688.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_196_0303_0504.mp4",
+    "keyframes": [
+        0,
+        50,
+        99,
+        149,
+        199
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_125_2078_2286.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_31_1484_1703.mp4",
+    "keyframes": [
+        0,
+        54,
+        114,
+        172
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_101_2970_3120.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        146
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_106_2022_2224.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        133,
+        169
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_132_1393_1497.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_1273_0010_0640.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_386_0000_0256.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        158,
+        218
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_580_0000_0770.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_1230_0000_0285.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_259_0848_0931.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_99_0000_0315.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_135_3404_3567.mp4",
+    "keyframes": [
+        0,
+        60,
+        120
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_179_1690_1815.mp4",
+    "keyframes": [
+        0,
+        60,
+        118
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_192_0304_0384.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_138_0681_0955.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_256_1314_1489.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_32_2136_2435.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        227,
+        287
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_3_0760_0950.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_256_2755_2849.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_41_1853_1959.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_568_0000_0500.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_630_0000_0160.mp4",
+    "keyframes": [
+        0,
+        60,
+        120
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_312_3848_3972.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_121_3397_3512.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_135_0315_0478.mp4",
+    "keyframes": [
+        0,
+        60,
+        120
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_471_0340_0411.mp4",
+    "keyframes": [
+        0,
+        60
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_101_1433_1631.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        160,
+        191
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_165_4617_4709.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_471_0280_0336.mp4",
+    "keyframes": [
+        0
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_617_0290_0344.mp4",
+    "keyframes": [
+        0
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_260_0697_0794.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_2_3370_3451.mp4",
+    "keyframes": [
+        0,
+        60
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_647_0000_0312.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        213,
+        273
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_8_2919_3025.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_258_4389_4472.mp4",
+    "keyframes": [
+        0,
+        60
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_779_0000_0149.mp4",
+    "keyframes": [
+        0,
+        60,
+        120
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_T_42_0000_0826.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_20_3372_3540.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_136_2847_2993.mp4",
+    "keyframes": [
+        0,
+        60,
+        120
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_95_0700_0801.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_3_0709_0916.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150,
+        200
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_295_0000_0165.mp4",
+    "keyframes": [
+        0,
+        50,
+        100,
+        150
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_A_23_2825_3046.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180
+    ]
+},
+{
+    "path": "data/MVBench/video/FunQA_test/test/test_humor/H_H_193_2012_2100.mp4",
+    "keyframes": [
+        0,
+        50
+    ]
+}
+]

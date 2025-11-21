@@ -1,0 +1,1927 @@
+[
+{
+    "path": "data/MVBench/video/vlnqa/right/239_frame55.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        48
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6828_frame45.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/5627_frame35.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6339_frame50.mp4",
+    "keyframes": [
+        0,
+        8,
+        17,
+        26,
+        38
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/478_frame38.mp4",
+    "keyframes": [
+        0,
+        11,
+        20,
+        32
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3669_frame35.mp4",
+    "keyframes": [
+        0,
+        11,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/5138_frame57.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        35,
+        47
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/5795_frame50.mp4",
+    "keyframes": [
+        0,
+        6,
+        15,
+        27,
+        39
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3012_frame32.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3557_frame30.mp4",
+    "keyframes": [
+        0,
+        12,
+        23
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4148_frame41.mp4",
+    "keyframes": [
+        0,
+        7,
+        19,
+        27,
+        39
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/2749_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/657_frame58.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        47,
+        57
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4563_frame35.mp4",
+    "keyframes": [
+        0,
+        10,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/7181_frame30.mp4",
+    "keyframes": [
+        0,
+        9,
+        21
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4865_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3875_frame33.mp4",
+    "keyframes": [
+        0,
+        10,
+        16,
+        27
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1888_frame54.mp4",
+    "keyframes": [
+        0,
+        10,
+        18,
+        30,
+        40,
+        52
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1383_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/583_frame34.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4629_frame76.mp4",
+    "keyframes": [
+        0,
+        8,
+        20,
+        32,
+        44,
+        56,
+        68
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1851_frame34.mp4",
+    "keyframes": [
+        0,
+        12,
+        18,
+        30
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6046_frame53.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        34,
+        44
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/254_frame60.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        34,
+        46,
+        54
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/321_frame42.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1275_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4051_frame32.mp4",
+    "keyframes": [
+        0,
+        9,
+        18,
+        26
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6576_frame65.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35,
+        47,
+        59
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4365_frame41.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3272_frame45.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        30,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1899_frame35.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4469_frame47.mp4",
+    "keyframes": [
+        0,
+        12,
+        20,
+        30,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6966_frame37.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6595_frame41.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1690_frame80.mp4",
+    "keyframes": [
+        0,
+        7,
+        19,
+        28,
+        39,
+        49,
+        61,
+        73
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3234_frame73.mp4",
+    "keyframes": [
+        0,
+        12,
+        19,
+        31,
+        42,
+        53,
+        65
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1631_frame39.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6617_frame43.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/6482_frame36.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1189_frame31.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3406_frame51.mp4",
+    "keyframes": [
+        0,
+        9,
+        18,
+        30,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3108_frame47.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3202_frame33.mp4",
+    "keyframes": [
+        0,
+        12,
+        21
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4787_frame52.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        33,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3731_frame47.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/1927_frame32.mp4",
+    "keyframes": [
+        0,
+        7,
+        17,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/3267_frame35.mp4",
+    "keyframes": [
+        0,
+        9,
+        19,
+        31
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/5787_frame90.mp4",
+    "keyframes": [
+        0,
+        9,
+        19,
+        28,
+        38,
+        49,
+        57,
+        65,
+        74,
+        84
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/4101_frame40.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        32
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/right/2662_frame37.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6843_frame48.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        34,
+        43
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6875_frame36.mp4",
+    "keyframes": [
+        0,
+        8,
+        15,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/2763_frame73.mp4",
+    "keyframes": [
+        0,
+        11,
+        18,
+        29,
+        41,
+        53,
+        65
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/431_frame33.mp4",
+    "keyframes": [
+        0,
+        11,
+        18,
+        28
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5938_frame39.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        32
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1090_frame31.mp4",
+    "keyframes": [
+        0,
+        12,
+        23
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1030_frame47.mp4",
+    "keyframes": [
+        0,
+        9,
+        15,
+        25,
+        35,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1194_frame53.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        47
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4597_frame44.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/7276_frame36.mp4",
+    "keyframes": [
+        0,
+        7,
+        17,
+        25,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/2978_frame46.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1720_frame34.mp4",
+    "keyframes": [
+        0,
+        8,
+        17,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1420_frame30.mp4",
+    "keyframes": [
+        0,
+        8,
+        20
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5952_frame39.mp4",
+    "keyframes": [
+        0,
+        12,
+        22,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1382_frame58.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        48
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1119_frame36.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/2988_frame38.mp4",
+    "keyframes": [
+        0,
+        11,
+        21,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/2380_frame36.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/101_frame51.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        35,
+        46
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6632_frame30.mp4",
+    "keyframes": [
+        0,
+        9,
+        20
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6939_frame50.mp4",
+    "keyframes": [
+        0,
+        11,
+        22,
+        30,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4009_frame48.mp4",
+    "keyframes": [
+        0,
+        12,
+        22,
+        34,
+        46
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4993_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4492_frame38.mp4",
+    "keyframes": [
+        0,
+        11,
+        22,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6753_frame55.mp4",
+    "keyframes": [
+        0,
+        11,
+        20,
+        29,
+        37,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1581_frame33.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4573_frame36.mp4",
+    "keyframes": [
+        0,
+        10,
+        21,
+        28,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/2695_frame39.mp4",
+    "keyframes": [
+        0,
+        11,
+        21,
+        31
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6164_frame43.mp4",
+    "keyframes": [
+        0,
+        8,
+        15,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/3411_frame39.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5162_frame56.mp4",
+    "keyframes": [
+        0,
+        9,
+        19,
+        28,
+        38,
+        49
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1716_frame42.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        29,
+        38
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5153_frame32.mp4",
+    "keyframes": [
+        0,
+        10,
+        17,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/3858_frame48.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        33,
+        40
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4871_frame47.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        33,
+        43
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5261_frame33.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/955_frame45.mp4",
+    "keyframes": [
+        0,
+        6,
+        15,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5123_frame36.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4268_frame36.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/5148_frame38.mp4",
+    "keyframes": [
+        0,
+        11,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6842_frame38.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4631_frame62.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        33,
+        45,
+        57
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/1161_frame34.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4332_frame32.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4504_frame52.mp4",
+    "keyframes": [
+        0,
+        11,
+        19,
+        31,
+        41,
+        48
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4448_frame51.mp4",
+    "keyframes": [
+        0,
+        8,
+        19,
+        31,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6550_frame53.mp4",
+    "keyframes": [
+        0,
+        8,
+        19,
+        30,
+        40,
+        48
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/4668_frame54.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        29,
+        41,
+        53
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/6626_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/left/2639_frame32.mp4",
+    "keyframes": [
+        0,
+        9,
+        21
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2834_frame31.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/4721_frame48.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        29,
+        41
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5873_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3822_frame52.mp4",
+    "keyframes": [
+        0,
+        12,
+        19,
+        28,
+        37,
+        49
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2141_frame54.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        31,
+        38,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/6822_frame37.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2282_frame52.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        35,
+        47
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3274_frame61.mp4",
+    "keyframes": [
+        0,
+        8,
+        20,
+        30,
+        42,
+        54
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3280_frame61.mp4",
+    "keyframes": [
+        0,
+        8,
+        19,
+        29,
+        40,
+        51
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2071_frame54.mp4",
+    "keyframes": [
+        0,
+        11,
+        18,
+        29,
+        41,
+        53
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/6766_frame49.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        31,
+        40
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/6336_frame47.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/4828_frame68.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        48,
+        59
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5039_frame54.mp4",
+    "keyframes": [
+        0,
+        6,
+        18,
+        30,
+        42,
+        52
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5876_frame53.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35,
+        47
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2527_frame52.mp4",
+    "keyframes": [
+        0,
+        11,
+        18,
+        30,
+        42
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/267_frame34.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        31
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2599_frame38.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2184_frame57.mp4",
+    "keyframes": [
+        0,
+        7,
+        18,
+        28,
+        38,
+        48
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/4749_frame46.mp4",
+    "keyframes": [
+        0,
+        11,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3529_frame63.mp4",
+    "keyframes": [
+        0,
+        11,
+        18,
+        29,
+        41,
+        53
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3122_frame59.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        32,
+        44,
+        53
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2288_frame59.mp4",
+    "keyframes": [
+        0,
+        12,
+        20,
+        32,
+        43,
+        53
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2905_frame30.mp4",
+    "keyframes": [
+        0,
+        10,
+        21
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2690_frame26.mp4",
+    "keyframes": [
+        0,
+        11,
+        23
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/1597_frame58.mp4",
+    "keyframes": [
+        0,
+        12,
+        22,
+        34,
+        44,
+        52
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/4943_frame48.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3856_frame53.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        35,
+        44
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/548_frame43.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/1431_frame57.mp4",
+    "keyframes": [
+        0,
+        8,
+        15,
+        22,
+        34,
+        46
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5186_frame68.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        44,
+        55,
+        66
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/3353_frame39.mp4",
+    "keyframes": [
+        0,
+        10,
+        16,
+        27,
+        37
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/6057_frame41.mp4",
+    "keyframes": [
+        0,
+        12,
+        20,
+        31
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5840_frame44.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5038_frame50.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        34,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/155_frame71.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        45,
+        57,
+        69
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2341_frame55.mp4",
+    "keyframes": [
+        0,
+        12,
+        20,
+        31,
+        42,
+        52
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2564_frame43.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/4027_frame31.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/573_frame36.mp4",
+    "keyframes": [
+        0,
+        11,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5403_frame50.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        34,
+        46
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/945_frame31.mp4",
+    "keyframes": [
+        0,
+        12,
+        23
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2250_frame35.mp4",
+    "keyframes": [
+        0,
+        8,
+        19,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5883_frame45.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2501_frame45.mp4",
+    "keyframes": [
+        0,
+        11,
+        21,
+        33,
+        44
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/5333_frame59.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        34,
+        45,
+        55
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/6893_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/4297_frame63.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35,
+        44,
+        56
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/384_frame77.mp4",
+    "keyframes": [
+        0,
+        12,
+        19,
+        28,
+        35,
+        43,
+        53,
+        61,
+        70
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/stop/2782_frame56.mp4",
+    "keyframes": [
+        0,
+        10,
+        16,
+        27,
+        33,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/5956_frame32.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1679_frame40.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4634_frame52.mp4",
+    "keyframes": [
+        0,
+        6,
+        17,
+        26,
+        38,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2751_frame49.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        48
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4152_frame34.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6077_frame56.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        34,
+        42,
+        52
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2291_frame31.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2658_frame46.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        33,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1111_frame58.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35,
+        47,
+        57
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/5887_frame69.mp4",
+    "keyframes": [
+        0,
+        11,
+        23,
+        32,
+        44,
+        56,
+        68
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6311_frame47.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36,
+        44
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/300_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4192_frame34.mp4",
+    "keyframes": [
+        0,
+        9,
+        20,
+        32
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4468_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4474_frame36.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4940_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1676_frame44.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/552_frame38.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1879_frame57.mp4",
+    "keyframes": [
+        0,
+        7,
+        19,
+        31,
+        43,
+        55
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/5644_frame30.mp4",
+    "keyframes": [
+        0,
+        8,
+        20
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/3785_frame37.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2371_frame32.mp4",
+    "keyframes": [
+        0,
+        8,
+        20,
+        31
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4954_frame55.mp4",
+    "keyframes": [
+        0,
+        8,
+        20,
+        28,
+        40,
+        52
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4613_frame39.mp4",
+    "keyframes": [
+        0,
+        9,
+        21,
+        29
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/7079_frame32.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/15_frame39.mp4",
+    "keyframes": [
+        0,
+        6,
+        13,
+        22,
+        34
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6157_frame39.mp4",
+    "keyframes": [
+        0,
+        8,
+        20,
+        28,
+        38
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6911_frame38.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/3525_frame52.mp4",
+    "keyframes": [
+        0,
+        6,
+        17,
+        26,
+        38,
+        50
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/3038_frame32.mp4",
+    "keyframes": [
+        0,
+        11,
+        23
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/3484_frame109.mp4",
+    "keyframes": [
+        0,
+        8,
+        20,
+        30,
+        39,
+        47,
+        56,
+        63,
+        69,
+        78,
+        88,
+        97,
+        106
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/5822_frame38.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4941_frame52.mp4",
+    "keyframes": [
+        0,
+        10,
+        22,
+        33,
+        45,
+        51
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2877_frame31.mp4",
+    "keyframes": [
+        0,
+        11,
+        22
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/5512_frame35.mp4",
+    "keyframes": [
+        0,
+        11,
+        20,
+        32
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1195_frame30.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/7309_frame57.mp4",
+    "keyframes": [
+        0,
+        7,
+        19,
+        31,
+        43,
+        55
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4903_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/5286_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4156_frame45.mp4",
+    "keyframes": [
+        0,
+        11,
+        22,
+        33,
+        44
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1539_frame47.mp4",
+    "keyframes": [
+        0,
+        12,
+        21,
+        33,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6093_frame70.mp4",
+    "keyframes": [
+        0,
+        12,
+        22,
+        34,
+        44,
+        52,
+        64
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/3492_frame46.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35,
+        45
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6671_frame35.mp4",
+    "keyframes": [
+        0,
+        12,
+        24
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/1836_frame40.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2365_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        19,
+        31
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/6721_frame34.mp4",
+    "keyframes": [
+        0,
+        12,
+        22,
+        33
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/4801_frame37.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/2233_frame42.mp4",
+    "keyframes": [
+        0,
+        12,
+        23,
+        35
+    ]
+},
+{
+    "path": "data/MVBench/video/vlnqa/forward/3661_frame41.mp4",
+    "keyframes": [
+        0,
+        12,
+        24,
+        36
+    ]
+}
+]

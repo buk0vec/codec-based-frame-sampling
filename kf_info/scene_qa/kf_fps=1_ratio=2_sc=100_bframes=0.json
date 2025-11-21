@@ -1,0 +1,3588 @@
+[
+{
+    "path": "data/MVBench/video/scene_qa/video/Top091_07780.mp4",
+    "keyframes": [
+        0,
+        48,
+        100,
+        149,
+        197,
+        236,
+        272,
+        327,
+        357,
+        388,
+        428,
+        463,
+        510,
+        545
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top040_03425.mp4",
+    "keyframes": [
+        0,
+        50,
+        96,
+        149,
+        195,
+        240,
+        299,
+        355,
+        390,
+        449,
+        504,
+        563,
+        599
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_01745.mp4",
+    "keyframes": [
+        0,
+        36,
+        70,
+        108,
+        143,
+        177,
+        213,
+        247,
+        281,
+        319,
+        354,
+        392,
+        450,
+        504,
+        558
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top069_00320.mp4",
+    "keyframes": [
+        0,
+        51,
+        101,
+        146,
+        191,
+        240,
+        283,
+        340,
+        385,
+        432,
+        469,
+        507,
+        561
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top051_09070.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        139,
+        173,
+        221,
+        254,
+        311,
+        362,
+        411,
+        456,
+        507,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top083_01875.mp4",
+    "keyframes": [
+        0,
+        48,
+        90,
+        142,
+        190,
+        234,
+        265,
+        300,
+        330,
+        381,
+        436,
+        486,
+        542,
+        593
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_08875.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        143,
+        188,
+        236,
+        284,
+        326,
+        374,
+        422,
+        470,
+        518,
+        566
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_05045.mp4",
+    "keyframes": [
+        0,
+        41,
+        75,
+        117,
+        156,
+        190,
+        220,
+        260,
+        318,
+        358,
+        416,
+        473,
+        506,
+        558,
+        594
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top103_00915.mp4",
+    "keyframes": [
+        0,
+        42,
+        96,
+        144,
+        192,
+        230,
+        278,
+        326,
+        368,
+        416,
+        464,
+        512,
+        560
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top024_04925.mp4",
+    "keyframes": [
+        0,
+        55,
+        110,
+        168,
+        199,
+        255,
+        307,
+        361,
+        413,
+        459,
+        507,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_02195.mp4",
+    "keyframes": [
+        0,
+        46,
+        93,
+        141,
+        182,
+        240,
+        290,
+        328,
+        376,
+        424,
+        472,
+        529,
+        580
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_06035.mp4",
+    "keyframes": [
+        0,
+        37,
+        91,
+        145,
+        205,
+        260,
+        301,
+        335,
+        371,
+        419,
+        469,
+        517,
+        561,
+        594
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top097_01280.mp4",
+    "keyframes": [
+        0,
+        44,
+        91,
+        140,
+        188,
+        231,
+        273,
+        315,
+        357,
+        405,
+        453,
+        501,
+        555
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top122_03820.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        151,
+        197,
+        234,
+        282,
+        330,
+        375,
+        425,
+        482,
+        539,
+        593
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_01500.mp4",
+    "keyframes": [
+        0,
+        57,
+        112,
+        168,
+        225,
+        282,
+        333,
+        383,
+        432,
+        480,
+        528,
+        576
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top019_01100.mp4",
+    "keyframes": [
+        0,
+        48,
+        94,
+        127,
+        168,
+        203,
+        257,
+        293,
+        328,
+        378,
+        436,
+        486,
+        536,
+        586
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top135_02935.mp4",
+    "keyframes": [
+        0,
+        48,
+        95,
+        144,
+        192,
+        240,
+        296,
+        354,
+        401,
+        454,
+        494,
+        554
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top073_02060.mp4",
+    "keyframes": [
+        0,
+        57,
+        116,
+        173,
+        228,
+        282,
+        338,
+        394,
+        450,
+        508,
+        565
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top103_07065.mp4",
+    "keyframes": [
+        0,
+        48,
+        98,
+        144,
+        188,
+        242,
+        292,
+        346,
+        400,
+        456,
+        501,
+        545,
+        592
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top077_03460.mp4",
+    "keyframes": [
+        0,
+        59,
+        114,
+        168,
+        221,
+        276,
+        334,
+        384,
+        432,
+        480,
+        528,
+        573
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_05685.mp4",
+    "keyframes": [
+        0,
+        56,
+        113,
+        168,
+        212,
+        272,
+        330,
+        384,
+        442,
+        499,
+        538,
+        596
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top091_00995.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        131,
+        176,
+        229,
+        281,
+        334,
+        386,
+        438,
+        487,
+        539,
+        570
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top084_01395.mp4",
+    "keyframes": [
+        0,
+        47,
+        99,
+        152,
+        204,
+        258,
+        301,
+        348,
+        396,
+        444,
+        492,
+        540,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top011_07740.mp4",
+    "keyframes": [
+        0,
+        42,
+        83,
+        113,
+        161,
+        197,
+        244,
+        292,
+        330,
+        375,
+        421,
+        472,
+        517,
+        556
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top055_05350.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        137,
+        179,
+        221,
+        265,
+        315,
+        371,
+        425,
+        479,
+        530,
+        582
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_02970.mp4",
+    "keyframes": [
+        0,
+        48,
+        94,
+        139,
+        180,
+        228,
+        283,
+        333,
+        382,
+        428,
+        477,
+        524,
+        574
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top119_04940.mp4",
+    "keyframes": [
+        0,
+        47,
+        97,
+        144,
+        201,
+        252,
+        307,
+        360,
+        416,
+        447,
+        503,
+        560
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top041_10365.mp4",
+    "keyframes": [
+        0,
+        33,
+        65,
+        95,
+        136,
+        177,
+        213,
+        249,
+        292,
+        333,
+        375,
+        422,
+        470,
+        519,
+        575
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_05370.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        152,
+        183,
+        236,
+        288,
+        344,
+        404,
+        454,
+        502,
+        555
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_01100.mp4",
+    "keyframes": [
+        0,
+        54,
+        98,
+        157,
+        209,
+        257,
+        311,
+        365,
+        422,
+        473,
+        522,
+        580
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top135_04375.mp4",
+    "keyframes": [
+        0,
+        55,
+        103,
+        162,
+        222,
+        276,
+        335,
+        394,
+        454,
+        513,
+        563
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top033_03315.mp4",
+    "keyframes": [
+        0,
+        30,
+        78,
+        132,
+        186,
+        242,
+        294,
+        341,
+        386,
+        429,
+        466,
+        519,
+        569
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top077_02225.mp4",
+    "keyframes": [
+        0,
+        57,
+        108,
+        150,
+        204,
+        257,
+        300,
+        353,
+        401,
+        457,
+        515,
+        570
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top051_01775.mp4",
+    "keyframes": [
+        0,
+        48,
+        89,
+        138,
+        174,
+        222,
+        270,
+        315,
+        363,
+        411,
+        459,
+        491,
+        537,
+        574
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top015_04230.mp4",
+    "keyframes": [
+        0,
+        57,
+        108,
+        162,
+        214,
+        264,
+        324,
+        381,
+        438,
+        495,
+        550
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top040_05440.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        139,
+        182,
+        223,
+        282,
+        338,
+        397,
+        454,
+        510,
+        560
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top034_00725.mp4",
+    "keyframes": [
+        0,
+        48,
+        84,
+        132,
+        172,
+        220,
+        268,
+        323,
+        376,
+        436,
+        496,
+        547,
+        592
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top079_02170.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        164,
+        205,
+        261,
+        318,
+        363,
+        420,
+        479,
+        538,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top048_06240.mp4",
+    "keyframes": [
+        0,
+        48,
+        93,
+        141,
+        191,
+        240,
+        286,
+        321,
+        369,
+        417,
+        453,
+        501,
+        549,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top001_00390.mp4",
+    "keyframes": [
+        0,
+        57,
+        112,
+        165,
+        222,
+        265,
+        308,
+        338,
+        371,
+        408,
+        464,
+        516,
+        564
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top119_00995.mp4",
+    "keyframes": [
+        0,
+        52,
+        105,
+        156,
+        206,
+        254,
+        302,
+        354,
+        404,
+        446,
+        491,
+        536,
+        588
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_01990.mp4",
+    "keyframes": [
+        0,
+        43,
+        93,
+        143,
+        192,
+        230,
+        278,
+        325,
+        374,
+        420,
+        466,
+        514,
+        562
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top016_03120.mp4",
+    "keyframes": [
+        0,
+        58,
+        115,
+        172,
+        228,
+        285,
+        341,
+        396,
+        454,
+        513,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top010_07590.mp4",
+    "keyframes": [
+        0,
+        49,
+        87,
+        120,
+        164,
+        209,
+        252,
+        294,
+        336,
+        376,
+        424,
+        472,
+        520,
+        568
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top047_01590.mp4",
+    "keyframes": [
+        0,
+        55,
+        108,
+        154,
+        204,
+        256,
+        310,
+        360,
+        415,
+        474,
+        532,
+        589
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top084_00825.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        164,
+        219,
+        275,
+        331,
+        377,
+        410,
+        440,
+        475,
+        513,
+        558,
+        597
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_03005.mp4",
+    "keyframes": [
+        0,
+        51,
+        104,
+        154,
+        204,
+        258,
+        313,
+        363,
+        413,
+        461,
+        509,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_01355.mp4",
+    "keyframes": [
+        0,
+        57,
+        113,
+        166,
+        226,
+        278,
+        334,
+        387,
+        441,
+        493,
+        546,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top040_02215.mp4",
+    "keyframes": [
+        0,
+        42,
+        81,
+        139,
+        169,
+        213,
+        258,
+        303,
+        348,
+        402,
+        457,
+        508,
+        558
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top010_00765.mp4",
+    "keyframes": [
+        0,
+        54,
+        99,
+        147,
+        195,
+        232,
+        268,
+        304,
+        340,
+        374,
+        412,
+        456,
+        503,
+        551,
+        593
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_02005.mp4",
+    "keyframes": [
+        0,
+        57,
+        87,
+        117,
+        147,
+        188,
+        239,
+        271,
+        315,
+        361,
+        404,
+        434,
+        482,
+        530,
+        587
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top077_01400.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        165,
+        216,
+        256,
+        305,
+        352,
+        400,
+        453,
+        505,
+        556
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top019_08785.mp4",
+    "keyframes": [
+        0,
+        54,
+        107,
+        153,
+        204,
+        252,
+        300,
+        352,
+        405,
+        446,
+        500,
+        550,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_04315.mp4",
+    "keyframes": [
+        0,
+        48,
+        90,
+        137,
+        183,
+        238,
+        273,
+        321,
+        371,
+        423,
+        477,
+        521,
+        565
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_00175.mp4",
+    "keyframes": [
+        0,
+        58,
+        118,
+        178,
+        237,
+        296,
+        348,
+        407,
+        465,
+        522,
+        579
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top051_08455.mp4",
+    "keyframes": [
+        0,
+        48,
+        97,
+        145,
+        193,
+        241,
+        295,
+        349,
+        403,
+        450,
+        504,
+        560
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top047_00935.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        162,
+        193,
+        249,
+        301,
+        348,
+        396,
+        444,
+        495,
+        532,
+        580
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top081_02555.mp4",
+    "keyframes": [
+        0,
+        50,
+        105,
+        156,
+        209,
+        262,
+        303,
+        361,
+        419,
+        477,
+        537,
+        594
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_03265.mp4",
+    "keyframes": [
+        0,
+        58,
+        89,
+        143,
+        193,
+        249,
+        304,
+        361,
+        413,
+        457,
+        511,
+        563
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_05600.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        135,
+        184,
+        240,
+        287,
+        332,
+        375,
+        424,
+        472,
+        522,
+        573
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_00375.mp4",
+    "keyframes": [
+        0,
+        59,
+        117,
+        166,
+        215,
+        262,
+        313,
+        372,
+        424,
+        474,
+        528,
+        568
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top018_10380.mp4",
+    "keyframes": [
+        0,
+        57,
+        116,
+        167,
+        216,
+        269,
+        316,
+        360,
+        408,
+        463,
+        516,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top039_05565.mp4",
+    "keyframes": [
+        0,
+        58,
+        117,
+        168,
+        221,
+        276,
+        324,
+        379,
+        432,
+        481,
+        540,
+        598
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top136_02740.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        156,
+        211,
+        264,
+        301,
+        348,
+        402,
+        450,
+        507,
+        561
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top034_01300.mp4",
+    "keyframes": [
+        0,
+        42,
+        80,
+        129,
+        159,
+        190,
+        239,
+        281,
+        332,
+        382,
+        432,
+        480,
+        528,
+        576
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top091_01800.mp4",
+    "keyframes": [
+        0,
+        49,
+        105,
+        156,
+        214,
+        251,
+        298,
+        342,
+        379,
+        422,
+        472,
+        514,
+        550,
+        591
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_02240.mp4",
+    "keyframes": [
+        0,
+        57,
+        114,
+        171,
+        226,
+        280,
+        335,
+        390,
+        436,
+        492,
+        550
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top101_02470.mp4",
+    "keyframes": [
+        0,
+        30,
+        61,
+        91,
+        121,
+        155,
+        188,
+        223,
+        257,
+        287,
+        317,
+        347,
+        382,
+        429,
+        477,
+        531,
+        584
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top027_01600.mp4",
+    "keyframes": [
+        0,
+        55,
+        107,
+        147,
+        201,
+        258,
+        315,
+        359,
+        395,
+        431,
+        461,
+        507,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top007_03840.mp4",
+    "keyframes": [
+        0,
+        39,
+        80,
+        115,
+        156,
+        196,
+        233,
+        273,
+        316,
+        358,
+        396,
+        428,
+        470,
+        512,
+        558,
+        589
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top013_02815.mp4",
+    "keyframes": [
+        0,
+        57,
+        114,
+        168,
+        224,
+        264,
+        312,
+        368,
+        420,
+        468,
+        516,
+        550,
+        598
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_11485.mp4",
+    "keyframes": [
+        0,
+        57,
+        113,
+        168,
+        207,
+        255,
+        302,
+        351,
+        399,
+        447,
+        501,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_02170.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        164,
+        216,
+        269,
+        323,
+        378,
+        432,
+        469,
+        523,
+        572
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_00525.mp4",
+    "keyframes": [
+        0,
+        52,
+        96,
+        137,
+        184,
+        221,
+        264,
+        307,
+        348,
+        393,
+        441,
+        483,
+        525,
+        561
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top001_00750.mp4",
+    "keyframes": [
+        0,
+        54,
+        95,
+        147,
+        199,
+        234,
+        288,
+        341,
+        390,
+        431,
+        479,
+        527,
+        572
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_02605.mp4",
+    "keyframes": [
+        0,
+        58,
+        115,
+        154,
+        202,
+        252,
+        286,
+        332,
+        366,
+        421,
+        451,
+        492,
+        532,
+        583
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top090_06260.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384,
+        432,
+        487,
+        540,
+        597
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top001_03675.mp4",
+    "keyframes": [
+        0,
+        52,
+        105,
+        156,
+        204,
+        252,
+        300,
+        348,
+        402,
+        455,
+        509,
+        564
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_02590.mp4",
+    "keyframes": [
+        0,
+        51,
+        104,
+        150,
+        203,
+        249,
+        304,
+        348,
+        400,
+        445,
+        497,
+        553
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_00440.mp4",
+    "keyframes": [
+        0,
+        52,
+        102,
+        151,
+        199,
+        242,
+        276,
+        332,
+        387,
+        443,
+        501,
+        555
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top091_01630.mp4",
+    "keyframes": [
+        0,
+        31,
+        84,
+        138,
+        183,
+        238,
+        296,
+        346,
+        393,
+        440,
+        490,
+        545,
+        575
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top040_02365.mp4",
+    "keyframes": [
+        0,
+        56,
+        112,
+        168,
+        221,
+        273,
+        327,
+        382,
+        420,
+        459,
+        514,
+        569
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top004_07620.mp4",
+    "keyframes": [
+        0,
+        59,
+        119,
+        177,
+        235,
+        285,
+        326,
+        381,
+        432,
+        485,
+        540,
+        588
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top101_04605.mp4",
+    "keyframes": [
+        0,
+        35,
+        83,
+        130,
+        179,
+        220,
+        266,
+        317,
+        366,
+        403,
+        451,
+        506,
+        558
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top103_04685.mp4",
+    "keyframes": [
+        0,
+        59,
+        115,
+        168,
+        219,
+        275,
+        333,
+        391,
+        441,
+        493,
+        548
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top023_09385.mp4",
+    "keyframes": [
+        0,
+        44,
+        74,
+        105,
+        135,
+        165,
+        206,
+        241,
+        277,
+        313,
+        349,
+        385,
+        433,
+        482,
+        530,
+        575
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_07840.mp4",
+    "keyframes": [
+        0,
+        45,
+        94,
+        145,
+        193,
+        232,
+        276,
+        316,
+        359,
+        409,
+        460,
+        508,
+        552
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top023_05940.mp4",
+    "keyframes": [
+        0,
+        48,
+        100,
+        152,
+        203,
+        252,
+        304,
+        348,
+        387,
+        431,
+        472,
+        520,
+        568
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top039_07580.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        163,
+        198,
+        256,
+        312,
+        346,
+        396,
+        444,
+        492,
+        545,
+        598
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top027_01155.mp4",
+    "keyframes": [
+        0,
+        60,
+        107,
+        156,
+        204,
+        255,
+        291,
+        350,
+        410,
+        470,
+        528,
+        579
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top005_03005.mp4",
+    "keyframes": [
+        0,
+        44,
+        92,
+        141,
+        190,
+        239,
+        293,
+        346,
+        395,
+        452,
+        503,
+        558
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top073_04440.mp4",
+    "keyframes": [
+        0,
+        57,
+        112,
+        168,
+        226,
+        283,
+        332,
+        381,
+        431,
+        480,
+        528,
+        576
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top024_01820.mp4",
+    "keyframes": [
+        0,
+        56,
+        111,
+        168,
+        220,
+        276,
+        327,
+        371,
+        413,
+        456,
+        511,
+        569
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top066_09305.mp4",
+    "keyframes": [
+        0,
+        60,
+        119,
+        150,
+        193,
+        240,
+        300,
+        334,
+        389,
+        449,
+        509,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top103_02830.mp4",
+    "keyframes": [
+        0,
+        55,
+        108,
+        156,
+        204,
+        252,
+        300,
+        339,
+        396,
+        444,
+        480,
+        533,
+        588
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top051_03455.mp4",
+    "keyframes": [
+        0,
+        52,
+        106,
+        145,
+        178,
+        230,
+        261,
+        312,
+        347,
+        379,
+        414,
+        451,
+        491,
+        530,
+        566
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top012_07450.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        151,
+        204,
+        249,
+        305,
+        348,
+        392,
+        450,
+        504,
+        562
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top136_05555.mp4",
+    "keyframes": [
+        0,
+        40,
+        84,
+        129,
+        171,
+        214,
+        256,
+        298,
+        355,
+        412,
+        468,
+        523,
+        577
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top119_01705.mp4",
+    "keyframes": [
+        0,
+        50,
+        105,
+        158,
+        211,
+        264,
+        309,
+        354,
+        398,
+        428,
+        469,
+        499,
+        544,
+        585
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top083_00685.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        144,
+        192,
+        245,
+        299,
+        346,
+        393,
+        441,
+        490,
+        540,
+        588
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top066_01200.mp4",
+    "keyframes": [
+        0,
+        58,
+        98,
+        153,
+        188,
+        245,
+        304,
+        352,
+        405,
+        459,
+        494,
+        545,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top090_06680.mp4",
+    "keyframes": [
+        0,
+        48,
+        95,
+        144,
+        183,
+        233,
+        283,
+        334,
+        384,
+        432,
+        477,
+        528,
+        576
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_03460.mp4",
+    "keyframes": [
+        0,
+        52,
+        97,
+        136,
+        180,
+        211,
+        256,
+        301,
+        345,
+        383,
+        413,
+        451,
+        482,
+        514,
+        567
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top036_04180.mp4",
+    "keyframes": [
+        0,
+        59,
+        118,
+        174,
+        216,
+        276,
+        324,
+        373,
+        421,
+        457,
+        505,
+        553,
+        599
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_03365.mp4",
+    "keyframes": [
+        0,
+        51,
+        107,
+        144,
+        201,
+        260,
+        312,
+        371,
+        405,
+        461,
+        521,
+        577
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_00630.mp4",
+    "keyframes": [
+        0,
+        52,
+        105,
+        148,
+        201,
+        249,
+        306,
+        364,
+        422,
+        465,
+        520,
+        573
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top044_03420.mp4",
+    "keyframes": [
+        0,
+        51,
+        94,
+        145,
+        180,
+        229,
+        274,
+        324,
+        375,
+        423,
+        471,
+        519,
+        567
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top017_03940.mp4",
+    "keyframes": [
+        0,
+        55,
+        108,
+        159,
+        213,
+        264,
+        316,
+        356,
+        399,
+        445,
+        483,
+        522,
+        558,
+        596
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top091_07460.mp4",
+    "keyframes": [
+        0,
+        45,
+        91,
+        132,
+        179,
+        227,
+        275,
+        323,
+        372,
+        420,
+        473,
+        518,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top011_08230.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        158,
+        210,
+        264,
+        317,
+        371,
+        424,
+        479,
+        532,
+        586
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top136_04890.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        333,
+        377,
+        417,
+        465,
+        513,
+        561
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top099_04400.mp4",
+    "keyframes": [
+        0,
+        59,
+        117,
+        176,
+        234,
+        288,
+        347,
+        406,
+        466,
+        526,
+        586
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top035_04835.mp4",
+    "keyframes": [
+        0,
+        42,
+        85,
+        144,
+        203,
+        261,
+        320,
+        372,
+        429,
+        481,
+        520,
+        562
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top133_03845.mp4",
+    "keyframes": [
+        0,
+        33,
+        84,
+        140,
+        199,
+        256,
+        312,
+        369,
+        427,
+        485,
+        531,
+        579
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top133_05575.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        166,
+        220,
+        271,
+        320,
+        375,
+        405,
+        464,
+        524,
+        580
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top133_02965.mp4",
+    "keyframes": [
+        0,
+        54,
+        106,
+        156,
+        199,
+        249,
+        306,
+        365,
+        424,
+        463,
+        510,
+        558,
+        589
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top069_05960.mp4",
+    "keyframes": [
+        0,
+        47,
+        90,
+        136,
+        191,
+        236,
+        290,
+        344,
+        398,
+        451,
+        484,
+        535,
+        591
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top019_04990.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        156,
+        210,
+        256,
+        310,
+        360,
+        408,
+        456,
+        504,
+        552
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top048_06850.mp4",
+    "keyframes": [
+        0,
+        48,
+        81,
+        123,
+        160,
+        208,
+        258,
+        303,
+        354,
+        400,
+        454,
+        506,
+        549,
+        582
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top040_00140.mp4",
+    "keyframes": [
+        0,
+        48,
+        99,
+        149,
+        183,
+        233,
+        278,
+        331,
+        382,
+        427,
+        477,
+        509,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top079_02905.mp4",
+    "keyframes": [
+        0,
+        57,
+        109,
+        166,
+        203,
+        256,
+        311,
+        367,
+        416,
+        475,
+        534,
+        594
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top090_01300.mp4",
+    "keyframes": [
+        0,
+        41,
+        83,
+        120,
+        156,
+        204,
+        241,
+        300,
+        357,
+        390,
+        442,
+        493,
+        551
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top020_06895.mp4",
+    "keyframes": [
+        0,
+        51,
+        85,
+        138,
+        197,
+        243,
+        286,
+        329,
+        366,
+        419,
+        473,
+        531,
+        583
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top012_03585.mp4",
+    "keyframes": [
+        0,
+        36,
+        84,
+        132,
+        180,
+        227,
+        276,
+        312,
+        360,
+        408,
+        448,
+        496,
+        547
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top038_03635.mp4",
+    "keyframes": [
+        0,
+        39,
+        91,
+        144,
+        176,
+        206,
+        249,
+        294,
+        333,
+        365,
+        414,
+        465,
+        513,
+        558,
+        597
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top069_07390.mp4",
+    "keyframes": [
+        0,
+        54,
+        102,
+        146,
+        189,
+        233,
+        285,
+        319,
+        350,
+        403,
+        434,
+        484,
+        542,
+        591
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top035_04165.mp4",
+    "keyframes": [
+        0,
+        48,
+        101,
+        153,
+        204,
+        254,
+        302,
+        350,
+        402,
+        446,
+        490,
+        538,
+        594
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top099_03220.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        202,
+        260,
+        319,
+        372,
+        420,
+        468,
+        516,
+        564
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top090_05825.mp4",
+    "keyframes": [
+        0,
+        46,
+        83,
+        129,
+        180,
+        231,
+        285,
+        340,
+        393,
+        432,
+        485,
+        539,
+        588
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top051_05975.mp4",
+    "keyframes": [
+        0,
+        31,
+        78,
+        111,
+        150,
+        200,
+        243,
+        290,
+        337,
+        388,
+        436,
+        486,
+        519,
+        564
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top077_05290.mp4",
+    "keyframes": [
+        0,
+        44,
+        84,
+        115,
+        171,
+        230,
+        266,
+        321,
+        354,
+        401,
+        442,
+        495,
+        543,
+        586
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top066_04625.mp4",
+    "keyframes": [
+        0,
+        41,
+        95,
+        146,
+        181,
+        229,
+        281,
+        334,
+        378,
+        426,
+        473,
+        520,
+        573
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_08415.mp4",
+    "keyframes": [
+        0,
+        48,
+        87,
+        120,
+        160,
+        205,
+        237,
+        271,
+        301,
+        336,
+        369,
+        404,
+        439,
+        477,
+        519,
+        556,
+        586
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_08835.mp4",
+    "keyframes": [
+        0,
+        53,
+        105,
+        156,
+        208,
+        261,
+        317,
+        357,
+        411,
+        464,
+        516,
+        548
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_04510.mp4",
+    "keyframes": [
+        0,
+        50,
+        94,
+        144,
+        178,
+        209,
+        261,
+        304,
+        352,
+        398,
+        442,
+        484,
+        529,
+        576
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top001_01225.mp4",
+    "keyframes": [
+        0,
+        47,
+        102,
+        156,
+        204,
+        252,
+        306,
+        359,
+        401,
+        439,
+        482,
+        531,
+        580
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_00430.mp4",
+    "keyframes": [
+        0,
+        51,
+        108,
+        149,
+        205,
+        258,
+        312,
+        366,
+        406,
+        461,
+        514,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_05935.mp4",
+    "keyframes": [
+        0,
+        48,
+        95,
+        143,
+        187,
+        227,
+        270,
+        318,
+        372,
+        429,
+        474,
+        528,
+        566
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_05585.mp4",
+    "keyframes": [
+        0,
+        53,
+        107,
+        156,
+        210,
+        264,
+        313,
+        361,
+        391,
+        443,
+        493,
+        541,
+        589
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top135_01765.mp4",
+    "keyframes": [
+        0,
+        55,
+        113,
+        167,
+        205,
+        252,
+        300,
+        347,
+        395,
+        439,
+        496,
+        552
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top081_03965.mp4",
+    "keyframes": [
+        0,
+        54,
+        110,
+        166,
+        214,
+        263,
+        308,
+        350,
+        398,
+        450,
+        506,
+        545,
+        587
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top018_02920.mp4",
+    "keyframes": [
+        0,
+        46,
+        96,
+        147,
+        190,
+        221,
+        276,
+        335,
+        394,
+        453,
+        512,
+        572
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top077_02770.mp4",
+    "keyframes": [
+        0,
+        59,
+        115,
+        168,
+        226,
+        277,
+        322,
+        361,
+        397,
+        440,
+        481,
+        526,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top015_00675.mp4",
+    "keyframes": [
+        0,
+        51,
+        106,
+        156,
+        205,
+        263,
+        313,
+        363,
+        413,
+        462,
+        507,
+        551
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top081_01155.mp4",
+    "keyframes": [
+        0,
+        44,
+        96,
+        137,
+        188,
+        222,
+        265,
+        302,
+        346,
+        394,
+        439,
+        489,
+        536,
+        584
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_04905.mp4",
+    "keyframes": [
+        0,
+        39,
+        74,
+        109,
+        142,
+        191,
+        226,
+        258,
+        300,
+        347,
+        405,
+        458,
+        510,
+        564,
+        599
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top084_01205.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        243,
+        288,
+        329,
+        372,
+        406,
+        453,
+        501,
+        549,
+        592
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top027_06300.mp4",
+    "keyframes": [
+        0,
+        45,
+        96,
+        149,
+        204,
+        257,
+        311,
+        365,
+        408,
+        456,
+        504,
+        550,
+        599
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top017_04525.mp4",
+    "keyframes": [
+        0,
+        52,
+        86,
+        140,
+        190,
+        245,
+        297,
+        345,
+        390,
+        423,
+        453,
+        497,
+        541,
+        582
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_08310.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384,
+        432,
+        480,
+        528,
+        562
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top006_09620.mp4",
+    "keyframes": [
+        0,
+        57,
+        108,
+        156,
+        208,
+        262,
+        312,
+        360,
+        407,
+        459,
+        509,
+        559
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_09625.mp4",
+    "keyframes": [
+        0,
+        47,
+        95,
+        147,
+        198,
+        245,
+        287,
+        317,
+        365,
+        413,
+        461,
+        509,
+        557
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top009_02325.mp4",
+    "keyframes": [
+        0,
+        43,
+        93,
+        138,
+        186,
+        225,
+        268,
+        316,
+        360,
+        397,
+        442,
+        490,
+        522,
+        556,
+        598
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top099_04845.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        164,
+        216,
+        258,
+        317,
+        376,
+        435,
+        494,
+        528,
+        582
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_05775.mp4",
+    "keyframes": [
+        0,
+        59,
+        117,
+        172,
+        211,
+        271,
+        330,
+        383,
+        436,
+        485,
+        537,
+        567
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top055_02430.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        142,
+        191,
+        240,
+        298,
+        357,
+        416,
+        474,
+        526,
+        582
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top019_07810.mp4",
+    "keyframes": [
+        0,
+        58,
+        118,
+        177,
+        237,
+        297,
+        347,
+        399,
+        451,
+        504,
+        552
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top079_00580.mp4",
+    "keyframes": [
+        0,
+        51,
+        96,
+        145,
+        176,
+        212,
+        251,
+        296,
+        344,
+        392,
+        440,
+        476,
+        521,
+        563
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top079_01715.mp4",
+    "keyframes": [
+        0,
+        51,
+        104,
+        160,
+        216,
+        265,
+        321,
+        373,
+        431,
+        489,
+        549
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top005_00550.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        166,
+        213,
+        269,
+        322,
+        377,
+        436,
+        489,
+        527,
+        585
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top010_04755.mp4",
+    "keyframes": [
+        0,
+        48,
+        102,
+        152,
+        201,
+        252,
+        303,
+        351,
+        399,
+        453,
+        505,
+        555
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_00720.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        275,
+        325,
+        373,
+        420,
+        469,
+        516,
+        561
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top099_02600.mp4",
+    "keyframes": [
+        0,
+        59,
+        118,
+        162,
+        221,
+        252,
+        310,
+        344,
+        402,
+        434,
+        494,
+        524,
+        584
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_03725.mp4",
+    "keyframes": [
+        0,
+        40,
+        93,
+        147,
+        204,
+        262,
+        322,
+        379,
+        436,
+        496,
+        556
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top019_08115.mp4",
+    "keyframes": [
+        0,
+        32,
+        83,
+        132,
+        182,
+        233,
+        285,
+        338,
+        378,
+        411,
+        448,
+        492,
+        536,
+        576
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top042_07435.mp4",
+    "keyframes": [
+        0,
+        44,
+        88,
+        130,
+        173,
+        208,
+        242,
+        278,
+        308,
+        345,
+        388,
+        431,
+        474,
+        517,
+        554,
+        584
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top038_01050.mp4",
+    "keyframes": [
+        0,
+        54,
+        105,
+        156,
+        200,
+        245,
+        279,
+        332,
+        376,
+        420,
+        459,
+        502,
+        543,
+        594
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top019_03440.mp4",
+    "keyframes": [
+        0,
+        35,
+        83,
+        135,
+        191,
+        237,
+        286,
+        332,
+        381,
+        427,
+        475,
+        521,
+        573
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top113_00550.mp4",
+    "keyframes": [
+        0,
+        51,
+        95,
+        131,
+        163,
+        198,
+        239,
+        275,
+        307,
+        339,
+        379,
+        409,
+        453,
+        487,
+        541,
+        591
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_04815.mp4",
+    "keyframes": [
+        0,
+        48,
+        100,
+        152,
+        197,
+        248,
+        300,
+        331,
+        391,
+        448,
+        504,
+        556
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_04175.mp4",
+    "keyframes": [
+        0,
+        44,
+        77,
+        129,
+        183,
+        229,
+        273,
+        314,
+        369,
+        429,
+        484,
+        537,
+        585
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top090_07115.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        178,
+        228,
+        285,
+        338,
+        386,
+        442,
+        497,
+        551
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top010_03375.mp4",
+    "keyframes": [
+        0,
+        55,
+        108,
+        156,
+        202,
+        250,
+        299,
+        346,
+        396,
+        448,
+        500,
+        548,
+        596
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top119_01365.mp4",
+    "keyframes": [
+        0,
+        48,
+        95,
+        153,
+        209,
+        256,
+        305,
+        354,
+        401,
+        455,
+        497,
+        545,
+        590
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top043_02660.mp4",
+    "keyframes": [
+        0,
+        60,
+        100,
+        155,
+        197,
+        256,
+        289,
+        349,
+        400,
+        454,
+        489,
+        543,
+        598
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top016_04025.mp4",
+    "keyframes": [
+        0,
+        53,
+        104,
+        144,
+        201,
+        252,
+        304,
+        351,
+        408,
+        455,
+        500,
+        546,
+        597
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top020_07525.mp4",
+    "keyframes": [
+        0,
+        39,
+        85,
+        141,
+        189,
+        237,
+        285,
+        327,
+        375,
+        423,
+        454,
+        497,
+        531,
+        573
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top091_06240.mp4",
+    "keyframes": [
+        0,
+        46,
+        96,
+        147,
+        194,
+        241,
+        285,
+        333,
+        380,
+        422,
+        470,
+        506,
+        542,
+        582
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top043_01235.mp4",
+    "keyframes": [
+        0,
+        42,
+        91,
+        133,
+        181,
+        221,
+        275,
+        327,
+        377,
+        430,
+        466,
+        511,
+        562,
+        597
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_06180.mp4",
+    "keyframes": [
+        0,
+        53,
+        106,
+        160,
+        211,
+        245,
+        297,
+        343,
+        384,
+        432,
+        480,
+        527,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top014_03245.mp4",
+    "keyframes": [
+        0,
+        30,
+        90,
+        146,
+        201,
+        252,
+        304,
+        359,
+        412,
+        464,
+        513,
+        561
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top069_04215.mp4",
+    "keyframes": [
+        0,
+        52,
+        104,
+        157,
+        208,
+        258,
+        309,
+        344,
+        401,
+        434,
+        482,
+        530,
+        585
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top047_04095.mp4",
+    "keyframes": [
+        0,
+        58,
+        114,
+        163,
+        216,
+        253,
+        309,
+        361,
+        418,
+        474,
+        529,
+        586
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top064_06575.mp4",
+    "keyframes": [
+        0,
+        54,
+        103,
+        156,
+        215,
+        270,
+        328,
+        383,
+        436,
+        487,
+        534,
+        575
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top135_02445.mp4",
+    "keyframes": [
+        0,
+        46,
+        92,
+        149,
+        204,
+        258,
+        312,
+        370,
+        425,
+        480,
+        531,
+        580
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_00190.mp4",
+    "keyframes": [
+        0,
+        56,
+        116,
+        151,
+        207,
+        259,
+        318,
+        368,
+        415,
+        466,
+        522,
+        571
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_00490.mp4",
+    "keyframes": [
+        0,
+        54,
+        105,
+        155,
+        202,
+        250,
+        300,
+        347,
+        385,
+        432,
+        479,
+        524,
+        559,
+        589
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top079_04290.mp4",
+    "keyframes": [
+        0,
+        60,
+        115,
+        167,
+        220,
+        274,
+        325,
+        385,
+        445,
+        503,
+        556
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top101_00540.mp4",
+    "keyframes": [
+        0,
+        48,
+        95,
+        144,
+        194,
+        245,
+        292,
+        325,
+        377,
+        430,
+        489,
+        548,
+        598
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top133_07935.mp4",
+    "keyframes": [
+        0,
+        53,
+        105,
+        156,
+        210,
+        258,
+        298,
+        341,
+        384,
+        430,
+        479,
+        528,
+        583
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top023_04225.mp4",
+    "keyframes": [
+        0,
+        36,
+        76,
+        115,
+        152,
+        192,
+        230,
+        267,
+        300,
+        330,
+        364,
+        397,
+        431,
+        462,
+        496,
+        527,
+        561,
+        596
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top008_00780.mp4",
+    "keyframes": [
+        0,
+        48,
+        106,
+        162,
+        202,
+        235,
+        268,
+        302,
+        343,
+        389,
+        439,
+        496,
+        546
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top043_01020.mp4",
+    "keyframes": [
+        0,
+        54,
+        102,
+        150,
+        196,
+        226,
+        284,
+        342,
+        392,
+        437,
+        483,
+        540,
+        570
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top027_00760.mp4",
+    "keyframes": [
+        0,
+        59,
+        114,
+        168,
+        224,
+        281,
+        336,
+        395,
+        431,
+        483,
+        534,
+        591
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top078_06630.mp4",
+    "keyframes": [
+        0,
+        54,
+        108,
+        156,
+        204,
+        259,
+        312,
+        372,
+        429,
+        459,
+        489,
+        519,
+        549,
+        579
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top136_00885.mp4",
+    "keyframes": [
+        0,
+        36,
+        84,
+        132,
+        180,
+        228,
+        282,
+        337,
+        390,
+        442,
+        492,
+        546
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top075_06545.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        142,
+        180,
+        216,
+        258,
+        290,
+        334,
+        383,
+        424,
+        471,
+        516,
+        564
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_04340.mp4",
+    "keyframes": [
+        0,
+        54,
+        106,
+        160,
+        204,
+        258,
+        310,
+        368,
+        409,
+        465,
+        495,
+        549
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top046_05260.mp4",
+    "keyframes": [
+        0,
+        57,
+        112,
+        168,
+        226,
+        258,
+        312,
+        370,
+        427,
+        480,
+        538,
+        595
+    ]
+},
+{
+    "path": "data/MVBench/video/scene_qa/video/Top024_03665.mp4",
+    "keyframes": [
+        0,
+        55,
+        108,
+        165,
+        216,
+        264,
+        311,
+        359,
+        408,
+        466,
+        516,
+        564
+    ]
+}
+]

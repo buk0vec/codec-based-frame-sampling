@@ -1,0 +1,541 @@
+[
+{
+    "path": "data/MVBench/video/data0613/clevrer/video_validation/video_13373.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/clevrer/video_validation/video_11971.mp4",
+    "keyframes": [
+        0,
+        50,
+        100
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/K47J5.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/W7CR5.mp4",
+    "keyframes": [
+        0,
+        58,
+        117,
+        177,
+        235,
+        295,
+        355,
+        415,
+        475,
+        534,
+        593,
+        648,
+        706,
+        766,
+        826,
+        886
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/QXT9W.mp4",
+    "keyframes": [
+        0,
+        60,
+        113,
+        164,
+        222,
+        280,
+        340,
+        400,
+        460,
+        520,
+        580,
+        640,
+        700,
+        760,
+        820,
+        880,
+        940,
+        1000,
+        1060,
+        1120,
+        1180,
+        1240,
+        1300,
+        1360,
+        1420,
+        1480,
+        1540,
+        1600,
+        1660,
+        1720,
+        1780,
+        1840,
+        1898,
+        1958
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/5NG6Q.mp4",
+    "keyframes": [
+        0,
+        53,
+        110,
+        168,
+        222,
+        262,
+        305,
+        356,
+        395,
+        449,
+        499,
+        557,
+        610,
+        664,
+        711,
+        762,
+        800,
+        833,
+        875
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/BAUQE.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        239,
+        299,
+        359,
+        419
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/0CG15.mp4",
+    "keyframes": [
+        0,
+        28,
+        58,
+        88,
+        118,
+        148,
+        178,
+        208,
+        237,
+        267,
+        297,
+        327,
+        357,
+        387,
+        417,
+        447,
+        476
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/XQDQ4.mp4",
+    "keyframes": [
+        0,
+        24,
+        55,
+        88,
+        122,
+        155,
+        184,
+        218,
+        250,
+        284,
+        316,
+        349,
+        383,
+        417,
+        451,
+        485
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/9MNZ5.mp4",
+    "keyframes": [
+        0,
+        13,
+        26,
+        39,
+        52,
+        65,
+        78,
+        91,
+        104,
+        117,
+        130,
+        143,
+        156,
+        169,
+        182,
+        195,
+        208,
+        221,
+        234,
+        247,
+        260,
+        273,
+        286,
+        299,
+        306,
+        319
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/6H78U.mp4",
+    "keyframes": [
+        0,
+        36,
+        72,
+        108,
+        144,
+        177,
+        203,
+        238,
+        274,
+        310,
+        346,
+        382,
+        415,
+        450,
+        482,
+        518,
+        551,
+        587
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/X9WTR.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780,
+        840,
+        900,
+        960,
+        1020,
+        1080,
+        1140,
+        1200,
+        1260,
+        1320,
+        1380,
+        1440,
+        1500,
+        1560,
+        1620,
+        1680,
+        1740,
+        1800,
+        1860,
+        1920
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/Q8UJ8.mp4",
+    "keyframes": [
+        0,
+        48,
+        97,
+        146,
+        195,
+        244,
+        293,
+        342,
+        391,
+        440,
+        489,
+        538,
+        587,
+        636,
+        685
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/MNC10.mp4",
+    "keyframes": [
+        0,
+        29,
+        59,
+        87,
+        117,
+        147,
+        177,
+        207,
+        236,
+        262,
+        292
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/OA9W5.mp4",
+    "keyframes": [
+        0,
+        49,
+        98,
+        147,
+        196,
+        245,
+        294,
+        343,
+        392,
+        441,
+        490,
+        539,
+        588,
+        637,
+        686,
+        735,
+        784
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/S572F.mp4",
+    "keyframes": [
+        0,
+        43,
+        90,
+        133,
+        180,
+        218,
+        250,
+        297,
+        340,
+        385,
+        432,
+        472,
+        518,
+        565,
+        612,
+        652
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/CII5H.mp4",
+    "keyframes": [
+        0,
+        43,
+        90,
+        139,
+        180,
+        229,
+        278,
+        327,
+        376,
+        425,
+        473,
+        522,
+        564
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/2NV6L.mp4",
+    "keyframes": [
+        0,
+        59,
+        117,
+        175,
+        233,
+        289,
+        346,
+        396,
+        453,
+        509,
+        559,
+        615,
+        675,
+        730,
+        788,
+        846,
+        898,
+        957
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/EDXBD.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/ABHC6.mp4",
+    "keyframes": [
+        0,
+        56,
+        108,
+        166,
+        226,
+        286,
+        345,
+        404,
+        464,
+        523,
+        576,
+        629,
+        686,
+        746,
+        798,
+        848,
+        907,
+        965
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/3XKBC.mp4",
+    "keyframes": [
+        0,
+        47,
+        94,
+        142,
+        188,
+        235,
+        280,
+        327,
+        375,
+        422,
+        469,
+        515,
+        563,
+        611,
+        659,
+        707
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/2RRSO.mp4",
+    "keyframes": [
+        0,
+        56,
+        112,
+        164,
+        223,
+        281,
+        341,
+        401,
+        461,
+        520,
+        577,
+        635,
+        691,
+        740,
+        783,
+        831,
+        872
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/ALXUC.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/PHH6B.mp4",
+    "keyframes": [
+        0,
+        30,
+        60,
+        90,
+        120,
+        150,
+        180,
+        210,
+        240,
+        270,
+        300,
+        330,
+        360,
+        390,
+        420,
+        448
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/J6TVB.mp4",
+    "keyframes": [
+        0,
+        48,
+        96,
+        144,
+        192,
+        240,
+        288,
+        336,
+        384,
+        432,
+        475,
+        523,
+        570,
+        618,
+        666
+    ]
+},
+{
+    "path": "data/MVBench/video/data0613/star/Charades_v1_480/OKYYQ.mp4",
+    "keyframes": [
+        0,
+        60,
+        120,
+        180,
+        240,
+        300,
+        360,
+        420,
+        480,
+        540,
+        600,
+        660,
+        720,
+        780
+    ]
+}
+]
