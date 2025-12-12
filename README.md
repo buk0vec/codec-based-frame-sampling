@@ -29,6 +29,8 @@ tfs_frames = tfs.solve(video_path)
 tfs_frames_uniform = tfs.uniform(video_path)
 ```
 
+These can be tested by running `pytest` which runs basic unit tests from `test_samplers.py`.
+
 Other helpful convience methods:
 
 - `get_frames` for exporting frames from video into files with ffmpeg
