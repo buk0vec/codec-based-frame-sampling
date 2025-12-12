@@ -49,6 +49,7 @@ def run_mvbench_one(args):
   video_path = find_video(Path(video_dir), Path(row.video))
   if video_path is None:
     raise Exception("Missing video")
+  # If we don't have pre-cached keyframes, sample them
   if keyframes is None:
     sampler = TargetFrameSampler(target_frames=target)
     start = row.start if trimmed else None

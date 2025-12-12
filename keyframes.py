@@ -8,17 +8,17 @@ import math
 
 # Extract I-frame indices from a video using ffmpeg
 def get_keyframes_ffmpeg(
-    path: Path | str,
-    video_fr: Fraction,
-    keyint_min: int = 8,
-    keyint_max: int = 24,
-    sc_threshold: int = 40,
+    path: Path | str, # Path to the video
+    video_fr: Fraction, # Video frame rate
+    keyint_min: int = 8, # Minimum keyframe interval
+    keyint_max: int = 24, # GOP size
+    sc_threshold: int = 40, # Scenecut threshold
     bframes: int = 0,  # -1 uses libx264 default of 3
-    trim_start: float | None = None,
-    trim_end: float | None = None,
-    n_threads: int = 1,
-    scale: str = "360",
-    lookahead_cap: int | None=60,
+    trim_start: float | None = None, # Start point in seconds
+    trim_end: float | None = None, # End point in seconds
+    n_threads: int = 1, # Number of ffmpeg threads to use
+    scale: str = "360", # Scaling argument for video
+    lookahead_cap: int | None=60, # Maximum vale for rc_lookahead 
 ) -> tuple[list[int], int, int]:
     cmd = None
     p = Path(path)
@@ -26,18 +26,22 @@ def get_keyframes_ffmpeg(
     start_offset_frames = 0
     trim_args = []
 
+    # Seek to start point
     if trim_start is not None:
-        start_offset_frames = int(round(trim_start * video_fr))
+        start_offset_frames = int(math.floor(trim_start * video_fr))
         trim_args.extend(["-ss", str(trim_start)])
 
+    # End at end point
     if trim_end is not None:
         trim_args.extend(["-to", str(trim_end)])
     
-    # Allow lookahead to be capped for encoding efficiency. 
+    # Allow lookahead to be capped for encoding efficiency. Otherwise set to GOP size
     rc_lookahead = keyint_max
     if lookahead_cap is not None:
         rc_lookahead = min(keyint_max, lookahead_cap)
     
+    # Encode video with specified params
+    # If the video is a director of frames, then pass the approprate args to ffmpeg
     if p.is_dir():
         cmd = [
         "ffmpeg", 
@@ -57,7 +61,7 @@ def get_keyframes_ffmpeg(
         "-flags", "+cgop", # Use closed GOP to force frames to reference current 
         "-bf", str(bframes),
         "-f", "h264",
-        "pipe:1",
+        "pipe:1", # Pipe output
     ]
     else:
         cmd = [
@@ -77,10 +81,11 @@ def get_keyframes_ffmpeg(
         "-flags", "+cgop", # Use closed GOP to force frames to reference current 
         "-bf", str(bframes),
         "-f", "h264",
-        "pipe:1",
+        "pipe:1", # Pipe output
     ]
 
     ffmpeg_process = subprocess.Popen(cmd, stdout=subprocess.PIPE)
+    # Run ffprobe to analyze output
     ffprobe_cmd = [
         "ffprobe",
         "-v", "error",
@@ -93,6 +98,7 @@ def get_keyframes_ffmpeg(
     output = subprocess.check_output(ffprobe_cmd, stdin=ffmpeg_process.stdout)
     ffmpeg_process.wait()
 
+    # Parse ffprobe output to detect IDR frames
     lines = output.decode("utf-8").strip().split("\n")
     idr_indices = []
     frame_count = 0
@@ -103,12 +109,15 @@ def get_keyframes_ffmpeg(
             continue
         items = line.split(",")
         frame_count += 1
+        # Line must contain an "I" and a "1" to be an IDR frame
         if "I" in items and "1" in items:
             idr_indices.append(i + start_offset_frames)
             idr_count += 1
     return idr_indices, idr_count, frame_count
   
-  
+
+# Helper function which calculates keyint_min and keyint_max given FRS parameters
+# before calling get_keyframes_ffmpeg
 def get_ffmpeg_keyframe_indices_for_target_frame_rate(
     path: Path | str,
     video_fr: Fraction,
@@ -135,12 +144,14 @@ def get_ffmpeg_keyframe_indices_for_target_frame_rate(
     )
     return keyframes
 
+# Base class for frame samplers
 class Sampler:
     def __init__(self, log=False, log_tqdm=False):
         self.log = log
         self.log_tqdm = log_tqdm
     
     
+    # Logging function w/ tqdm support
     def _print(self, s):
         if self.log:
             if self.log_tqdm:
@@ -148,6 +159,7 @@ class Sampler:
             else:
                 print(s)
     
+    # Get video FPS and total frames
     def get_video_meta(self, path: Path) -> tuple[int, Fraction]:
         # Handle directories containing video frames. All of these are 3 FPS in MVBench,
         # different handling needed for usage outside of MVBench.
@@ -182,6 +194,7 @@ class Sampler:
         return total, fps
     
     
+# Frame reduction sampler
 class FrameReductionSampler(Sampler):
     def __init__(self, sample_rate: Fraction, scenecut: int, compression_factor: float, log=False, log_tqdm=False):
         self.sample_rate = sample_rate
@@ -189,10 +202,12 @@ class FrameReductionSampler(Sampler):
         self.scenecut = scenecut
         super().__init__(log=log, log_tqdm=log_tqdm)
         
+    # Return uniformly-sampled frames
     def uniform(self, path: Path, start: float | None = None, end: float | None = None):
         total_frames, fps = self.get_video_meta(path)
         start_frame = 0
         
+        # Check if timings are incorrect, unfortunately common in MVBench
         if end is not None:
             end_frame = int(fps * end)
             if end_frame >= total_frames:
@@ -211,11 +226,13 @@ class FrameReductionSampler(Sampler):
         frame_idx = [i for i in range(start_frame, start_frame + total_frames, frames_per_sample)]
         return frame_idx
     
+    # Perform FRS on the given video
     def solve(self, path: Path, start: float | None = None, end: float | None = None):
         total_frames, fps = self.get_video_meta(path)
         
         start_frame = 0
         
+        # Check if timings are incorrect, unfortunately common in MVBench
         if end is not None:
             end_frame = int(fps * end)
             if end_frame >= total_frames:
@@ -230,6 +247,7 @@ class FrameReductionSampler(Sampler):
             else:
                 total_frames -= start_frame
         
+        # Get keyframes using helper function
         keyframes = get_ffmpeg_keyframe_indices_for_target_frame_rate(
             path,
             fps,
@@ -244,6 +262,7 @@ class FrameReductionSampler(Sampler):
         
         
 
+# Target frame sampler
 class TargetFrameSampler(Sampler):
     def __init__(self, target_frames=16, max_feasible_iter=100, max_binary_iter=9, log=False, log_tqdm=False, sc_max=300):
         self.target = target_frames
@@ -252,6 +271,7 @@ class TargetFrameSampler(Sampler):
         self.sc_max = sc_max
         super().__init__(log=log, log_tqdm=log_tqdm)
 
+    # Internal wrapper for get_keyframes_ffmpeg
     def _run_probe(self, path: Path, fps: Fraction, sc: int, k_min: int, k_max: int, scale="240", lc: int | None=None, start=None, end=None):
         frames, count, _ = get_keyframes_ffmpeg(
             path, 
@@ -268,10 +288,12 @@ class TargetFrameSampler(Sampler):
         )
         return frames, count
     
+    # Perform TFS on the given video
     def solve(self, path, start=None, end=None) -> dict:
         total_frames, fps = self.get_video_meta(path)
         start_frame = 0
         
+        # Check if timings are incorrect, unfortunately common in MVBench
         if end is not None:
             end_frame = int(fps * end)
             if end_frame >= total_frames:
@@ -293,7 +315,6 @@ class TargetFrameSampler(Sampler):
 
         # Fix keyint_min (nyquist sampling freq) total_frames/(target * 2), clipped between [1, 4] so that we don't just end up uniformly sampling
         keyint_min = min(4, max(int(total_frames/(self.target * 2)), 1))
-        # print("Finding feasible")
         # Find feasible keyint_max
         feasible, keyint_max, keyframes, keyframe_count = self._find_feasible_max(path, total_frames, fps, keyint_min, start=start, end=end)
 
@@ -309,7 +330,6 @@ class TargetFrameSampler(Sampler):
                 "keyint_max": keyint_max,
                 "scenecut": self.sc_max
             }
-        # print("BS", path, fps, keyint_min, keyint_max, start, end, start_frame, total_frames, keyframe_count)
         # Run binary search to find optimal scenecut
         sc, keyframes, keyframe_count = self._find_scenecut_bs(path, fps, keyint_min, keyint_max, start=start, end=end)
 
@@ -321,10 +341,11 @@ class TargetFrameSampler(Sampler):
             "scenecut": sc
         }
 
+    # Uniformly sample frames from a video
     def uniform(self, path, start=None, end=None):
         total_frames, fps = self.get_video_meta(path)
+        # Check if timings are incorrect, unfortunately common in MVBench
         start_frame = 0
-        
         if end is not None:
             end_frame = int(fps * end)
             if end_frame >= total_frames:
@@ -339,28 +360,34 @@ class TargetFrameSampler(Sampler):
             else:
                 total_frames -= start_frame
         
+        # Linearly interpolate the list of all the video frames down to the target number
         return self._interp_frame_indices(list(range(start_frame, start_frame+total_frames)))
     
+    # Binary search for optimal scenecut
     def _find_scenecut_bs(self, path, fps, keyint_min, keyint_max, start=None, end=None) -> tuple[int, list[int], int]:
-        # Binary search for optimal scenecut
         sc = self.sc_max
         sc_min = 0
         last_feasible_sc = sc
         last_feasible_keyframes = []
         for i in range(self.binary_iter):
             keyframes, count = self._run_probe(path, fps, sc, keyint_min, keyint_max, start=start, end=end)
+            # Return if we get exactly the target number of frames
             if count == self.target:
                 return sc, keyframes, count
+            # If we have too many, save the current sc as feasible and adjust interval
             if count > self.target:
                 last_feasible_sc = sc
                 last_feasible_keyframes = keyframes
                 sc_max = sc
+            # Otherwise, adjust interval
             else:
                 sc_min = sc
             sc = sc_min + (sc_max - sc_min) // 2
+        # After reaching maximum iterations, just return the best scenecut value
         self._print(f"WARN: binary scenecut search reahed max iterations.\npath={path} keyint_min={keyint_min} keyint_max={keyint_max} sc={sc} feasible_sc={last_feasible_sc} n_kfs={len(last_feasible_keyframes)}")
         return last_feasible_sc, last_feasible_keyframes, len(last_feasible_keyframes)
-        
+    
+    # Line search for a feasible keyint_max value
     def _find_feasible_max(self, path, total_frames, fps, keyint_min, alpha=0.9, start=None, end=None) -> tuple[bool, int, list[int], int]:
         # First find feasible start, use keyint_max = total_frames - target*keyint_min and scenecut = 300. While we are getting less keyframes than target, decrease 
         # keyint_max by a factor. Do this until n_frames >= target.
@@ -380,8 +407,7 @@ class TargetFrameSampler(Sampler):
         self._print(f"WARN: feasiblility check reached max iterations\npath={path} total_frames={total_frames} keyint_min={keyint_min} keyint_max={keyint_max}")
         return infeasible
             
-        
-
+    # Simple linear interpolation to reduce a list of frames to the target number
     def _interp_frame_indices(self, indices) -> list[int]:
         if len(indices) == self.target:
             return indices
