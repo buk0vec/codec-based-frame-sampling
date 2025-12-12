@@ -34,4 +34,3 @@ Other helpful convience methods:
 - `get_frames` for exporting frames from video into files with ffmpeg
 - Many MVBench-specific functions in `mvbench.py` for evaluation w/ Gemini.
 - `Sampler.get_video_meta` for getting video FPS and total frame count.
-- 
