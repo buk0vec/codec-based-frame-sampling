@@ -1,3 +1,10 @@
+"""
+generate_kfs.py
+
+Precompute FRS keyframes for evaluation. Please don't use this, it doesn't take trimmed clips into account.
+So every trimmed clip will need to have its keyframes recalculated at eval time!
+"""
+
 import subprocess
 import os
 from tqdm.auto import tqdm
@@ -8,6 +15,7 @@ from fractions import Fraction
 import csv
 import argparse
 import json
+import math
 import uuid
 
 def get_total_frames(path: Path) -> int:
@@ -64,7 +72,7 @@ def get_keyframes_ffmpeg(
     keyint_min: int = 8,
     keyint_max: int = 24,
     sc_threshold: int = 40,
-    bframes: int = -1,  # -1 is default, libx264 defaults to 3
+    bframes: int = 0,  # -1 is default, libx264 defaults to 3
     tmp_file: str = "ffmpeg/out.mp4"
 ) -> tuple[list[int], int, int]:
     cmd = None
@@ -169,12 +177,12 @@ def get_ffmpeg_keyframe_indices_for_target_frame_rate(
     target_rate: Fraction,
     compression_ratio: Fraction,
     sc_threshold: int = 40,
-    bframes: int = -1,
+    bframes: int = 0,
     tmp_file: str = "ffmpeg/out.mp4"
 ):
     # Use ceiling so we don't oversample
-    min_scene_len = np.ceil(float(video_fr / target_rate))
-    max_scene_len = np.ceil(float(video_fr / target_rate * compression_ratio))
+    min_scene_len = math.ceil(float(video_fr / target_rate))
+    max_scene_len = math.ceil(float(video_fr / target_rate * compression_ratio))
 
     keyframes = get_keyframes_ffmpeg(
         path,
@@ -192,7 +200,7 @@ def eval_keyframe_count_by_dir(
     files: list[Path],
     target_rate: Fraction,
     compression_ratio: Fraction,
-    sc_threshold: list,
+    sc_threshold: int,
     bframes: int,
     stats_file: str = "kf_stats.csv",
     keyframes_file: str = "kfs.json"
@@ -239,7 +247,7 @@ def eval_keyframe_count_by_dir(
                 all_kfs[str(f)] = keyframes
                 total_keyframes += kf_count
                 # Calculate the number of frames that would be used if we used uniform sampling
-                uniform_sampling = np.floor(frame_count / video_fr * target_rate)
+                uniform_sampling =  math.floor(frame_count / video_fr * target_rate)
                 total_uniform_frames += uniform_sampling
                 frames_saved = uniform_sampling - kf_count
                 total_frames_saved += frames_saved
@@ -266,7 +274,7 @@ if __name__ == "__main__":
     parser.add_argument("--target_fps", type=int, default=1)
     parser.add_argument("--compression_ratio", type=int, default=2)
     parser.add_argument("--sc_threshold", type=int, default=40)
-    parser.add_argument("--bframes", type=int, default=-1)
+    parser.add_argument("--bframes", type=int, default=0)
     
     args = parser.parse_args()
     

@@ -1,14 +1,21 @@
+"""
+generate_kfs_parallel.py
+
+Precomputes FRS keyframes in parallel for MVBench videos. Please don't use this, it does not take trimmed clips into account.
+So every trimmed clip will need to have its keyframes recalculated at eval time!
+"""
+
 import subprocess
 import os
 from tqdm.auto import tqdm
 import glob
 from pathlib import Path
 import numpy as np
+import math
 from fractions import Fraction
 import csv
 import argparse
 import json
-import uuid
 import multiprocessing
 import time
 
@@ -65,11 +72,11 @@ def get_frame_rate(path: Path) -> Fraction:
 
 
 def get_keyframes_ffmpeg(
-    path: str,
+    path: Path | str,
     keyint_min: int = 8,
     keyint_max: int = 24,
     sc_threshold: int = 40,
-    bframes: int = -1,  # -1 is default, libx264 defaults to 3
+    bframes: int =  0,  # -1 uses default, libx264 defaults to 3
 ) -> tuple[list[int], int, int]:
     cmd = None
     p = Path(path)
@@ -157,16 +164,16 @@ def get_all_video_locations() -> list[Path]:
 
 
 def get_ffmpeg_keyframe_indices_for_target_frame_rate(
-    path: str,
+    path: Path | str,
     video_fr: Fraction,
     target_rate: Fraction,
     compression_ratio: Fraction,
     sc_threshold: int = 40,
-    bframes: int = -1,
+    bframes: int = 0,
 ):
     # Use ceiling so we don't oversample
-    min_scene_len = np.ceil(float(video_fr / target_rate))
-    max_scene_len = np.ceil(float(video_fr / target_rate * compression_ratio))
+    min_scene_len = math.ceil(float(video_fr / target_rate))
+    max_scene_len = math.ceil(float(video_fr / target_rate * compression_ratio))
 
     keyframes = get_keyframes_ffmpeg(
         path,
@@ -184,7 +191,7 @@ def eval_keyframe_count_by_dir(
     target_rate: Fraction = Fraction(1),
     compression_ratio: Fraction = Fraction(2),
     sc_threshold: int = 40,
-    bframes: int = -1,
+    bframes: int = 0,
     file_suffix: str = "",
 ):
     """
@@ -253,7 +260,7 @@ def eval_keyframe_count(
     target_rate: Fraction = Fraction(1),
     compression_ratio: Fraction = Fraction(2),
     sc_threshold: int = 40,
-    bframes: int = -1,
+    bframes: int = 0,
 ):
     video_fr = get_frame_rate(file)
     keyframes, kf_count, frame_count = get_ffmpeg_keyframe_indices_for_target_frame_rate(
@@ -264,7 +271,7 @@ def eval_keyframe_count(
         sc_threshold,
         bframes,
     )
-    uniform_sampling = np.floor(frame_count / video_fr * target_rate)
+    uniform_sampling = math.floor(frame_count / video_fr * target_rate)
     frames_saved = uniform_sampling - kf_count
     ratio = kf_count / uniform_sampling
     return file, keyframes, kf_count, frame_count, uniform_sampling, frames_saved, ratio, video_fr
@@ -280,7 +287,7 @@ if __name__ == "__main__":
     parser.add_argument("--sc_min", type=int, default=0)
     parser.add_argument("--sc_max", type=int, default=200)
     parser.add_argument("--sc_step", type=int, default=20)
-    parser.add_argument("--bframes", type=int, default=-1)
+    parser.add_argument("--bframes", type=int, default=0)
 
     args = parser.parse_args()
 
@@ -294,22 +301,7 @@ if __name__ == "__main__":
     )
 
     scs = [sc for sc in range(args.sc_min, args.sc_max + args.sc_step, args.sc_step)]
-
-    # args_configs = [
-    #     {
-    #         "target_rate": Fraction(args.target_fps),
-    #         "compression_ratio": Fraction(args.compression_ratio),
-    #         "sc_threshold": sc,
-    #         "bframes": args.bframes,
-    #         "file_suffix": f"fps={args.target_fps}_ratio={args.compression_ratio}_sc={sc}_bframes={args.bframes}"
-    #     }
-    #     for sc in scs
-    # ]
-
-    # with multiprocessing.Pool(processes=4) as pool:
-    #     tasks = [{"files": files, **args} for args in args_configs]
-    #     results = list(tqdm(pool.imap(eval_mp, tasks), total=len(scs)))
-
+    
     for sc in tqdm(scs):
         argstr = f"fps={args.target_fps}_ratio={args.compression_ratio}_sc={sc}_bframes={args.bframes}"
         eval_keyframe_count_by_dir(
